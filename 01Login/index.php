@@ -2,9 +2,6 @@
 <html>
 	<head>
 		<title>Login</title>
-		<?php 
-			
-		?>
 	</head>
 	<body>
 		<center><h1>INICIO DE SESION</h1>
